@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+public class DemoClass {
+    
+    public func getName() -> String {
+        return "demoClass"
+    }
+}
