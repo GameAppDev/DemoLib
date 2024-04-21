@@ -9,7 +9,7 @@ import Foundation
 
 public class DemoClass {
     
-    public func getName() -> String {
+    public static func getName() -> String {
         return "demoClass"
     }
 }
