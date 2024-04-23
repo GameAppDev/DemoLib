@@ -10,6 +10,6 @@ import Foundation
 public class DemoClass {
     
     public static func getName() -> String {
-        return "demoClass new v1.0.5 2"
+        return "demoClass new v1.0.7"
     }
 }
